@@ -1,0 +1,25 @@
+{
+  "shop": {
+    "currency": "NPR",       
+    "language": "en",
+    "weightUnit": "kg",
+    "homeUrl": "http://localhost:3000"
+  },
+  "themeConfig": {
+    "logo": {
+      "alt": "My Store Logo",
+      "src": "/logo.png",       
+      "width": 70,
+      "height": 40
+    },
+    "headTags": {
+      "links": [
+        {
+          "rel": "stylesheet",
+          "href": "/custom.css"
+        }
+      ]
+    },
+    "copyRight": "© 2025 AquaBeast Baglung Store. All rights reserved."
+  }
+}
