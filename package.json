@@ -1,14 +1,14 @@
 {
-  "name": "evershop_localhost",
+  "name": "aquabeast",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "setup": "evershop install",
-    "build": "npm run build",
-    "start": "npm start",
-    "user:create": "evershop user:create",
-    "user:changePassword": "evershop user:changePassword"
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "setup": "evershop install",
+  "build": "evershop build",
+  "start": "evershop start",
+  "user:create": "evershop user:create",
+  "user:changePassword": "evershop user:changePassword"
   },
   "author": "",
   "license": "ISC",
