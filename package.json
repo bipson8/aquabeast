@@ -4,11 +4,11 @@
   "main": "index.js",
   "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
-  "setup": "evershop install",
-  "build": "evershop build",
-  "start": "evershop start",
-  "user:create": "evershop user:create",
-  "user:changePassword": "evershop user:changePassword"
+  "setup": "npx evershop install",
+  "build": "npx evershop build",
+  "start": "npx evershop start",
+  "user:create": "npx evershop user:create",
+  "user:changePassword": "npx evershop user:changePassword"
   },
   "author": "",
   "license": "ISC",
